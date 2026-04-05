@@ -9,7 +9,7 @@
     "ip": "pedroearthur.aternos.me",
     "port": 43953,
     "version": "1.21.11",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
