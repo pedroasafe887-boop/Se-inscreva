@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "pedroearthur.aternos.me",
+    "port": 43953,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 100,
     "y": 100,
-    "z": 0
+    "z": 100
   },
   "utils": {
     "auto-auth": {
@@ -77,7 +77,7 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
