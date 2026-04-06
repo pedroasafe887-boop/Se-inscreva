@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "icefish.aternos.host.me",
+    "ip": "pedroearthur.aternos.host.me",
     "port": 43953,
     "version": "1.21.11",
     "try-creative": false
