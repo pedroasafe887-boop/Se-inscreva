@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "duiker.aternos.host:43953
+",
+    "port": 43953,
     "version": "",
     "try-creative": false
   },
